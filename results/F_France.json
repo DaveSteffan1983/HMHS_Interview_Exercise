@@ -1,0 +1,126 @@
+{
+    "F": {
+        "France": [
+            {
+                "000030": {
+                    "ADDRESS_1": "Hamilton Guthrie",
+                    "CITY": "Tiverton",
+                    "CLIENT_ID": "E91B6D76-4BF6-B8D9-8419-94335564D196",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000030",
+                    "STREET": "733-7445 Sem Rd.",
+                    "ZIP": "97840-40286"
+                }
+            },
+            {
+                "000065": {
+                    "ADDRESS_1": "Martena Phelps",
+                    "CITY": "Sapele",
+                    "CLIENT_ID": "C3EAEB60-B9BC-5DC9-573E-BEDF7EE3B52C",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000065",
+                    "STREET": "Ap #218-8097 Eu Avenue",
+                    "ZIP": "2079"
+                }
+            },
+            {
+                "000076": {
+                    "ADDRESS_1": "Kaseem Sherman",
+                    "CITY": "San Pablo",
+                    "CLIENT_ID": "AD30AF8A-1894-5A2D-3942-5615E21E253B",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000076",
+                    "STREET": "7585 Eu Rd.",
+                    "ZIP": "16477"
+                }
+            },
+            {
+                "000116": {
+                    "ADDRESS_1": "Abigail Moon",
+                    "CITY": "Wolfurt",
+                    "CLIENT_ID": "911365B8-4C96-C46E-ECE6-A96F0517C77E",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000116",
+                    "STREET": "Ap #728-7895 Justo. Av.",
+                    "ZIP": "24463"
+                }
+            },
+            {
+                "000117": {
+                    "ADDRESS_1": "Cassandra Benton",
+                    "CITY": "Iqaluit",
+                    "CLIENT_ID": "555C98F3-58EE-8A55-F7BA-48C21CD66451",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000117",
+                    "STREET": "Ap #972-2220 Habitant Road",
+                    "ZIP": "758842"
+                }
+            },
+            {
+                "000128": {
+                    "ADDRESS_1": "Channing Lott",
+                    "CITY": "Vidisha",
+                    "CLIENT_ID": "D83736AC-8161-9C03-865E-7774899705D8",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000128",
+                    "STREET": "Ap #482-548 Egestas. Ave",
+                    "ZIP": "77682"
+                }
+            },
+            {
+                "000143": {
+                    "ADDRESS_1": "Erasmus Gallagher",
+                    "CITY": "Kurgan",
+                    "CLIENT_ID": "A919849B-C2BD-99C5-BE1A-E21571A7DCDD",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000143",
+                    "STREET": "731-9934 Magna. Street",
+                    "ZIP": "19757"
+                }
+            },
+            {
+                "000158": {
+                    "ADDRESS_1": "Vielka Reilly",
+                    "CITY": "Alphen aan den Rijn",
+                    "CLIENT_ID": "4F6B1D11-A3AE-3E9C-AAFF-17295494C369",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000158",
+                    "STREET": "662-1565 Tincidunt Street",
+                    "ZIP": "10324"
+                }
+            },
+            {
+                "000159": {
+                    "ADDRESS_1": "Ifeoma Rush",
+                    "CITY": "Bandar Lampung",
+                    "CLIENT_ID": "B47C36DA-D971-6DA4-33A5-B976F47F9392",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000159",
+                    "STREET": "2225 Rutrum St.",
+                    "ZIP": "32984"
+                }
+            },
+            {
+                "000163": {
+                    "ADDRESS_1": "Marah Chavez",
+                    "CITY": "Las Palmas",
+                    "CLIENT_ID": "46E6D118-E5DA-EC23-638D-A0A96ABCFA94",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000163",
+                    "STREET": "7339 Vivamus Rd.",
+                    "ZIP": "45153"
+                }
+            }
+        ]
+    }
+}

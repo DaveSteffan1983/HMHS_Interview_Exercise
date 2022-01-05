@@ -1,0 +1,2282 @@
+{
+    "A": {
+        "France": [
+            {
+                "000002": {
+                    "ADDRESS_1": "Octavia Cervantes",
+                    "CITY": "Darwin",
+                    "CLIENT_ID": "8B1EFDB0-4423-889A-EC83-EB47979286DD",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000002",
+                    "STREET": "5512 Nisl Rd.",
+                    "ZIP": "8380"
+                }
+            },
+            {
+                "000010": {
+                    "ADDRESS_1": "Mechelle Craig",
+                    "CITY": "Kaster",
+                    "CLIENT_ID": "72631A1C-2401-E2D2-2F2D-863399A7B95D",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000010",
+                    "STREET": "840-7925 Quis Rd.",
+                    "ZIP": "I2G 3SQ"
+                }
+            },
+            {
+                "000037": {
+                    "ADDRESS_1": "Melvin Albert",
+                    "CITY": "Pontevedra",
+                    "CLIENT_ID": "58C83025-1600-98AD-423C-571A7E28965B",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000037",
+                    "STREET": "Ap #932-9975 Felis Road",
+                    "ZIP": "54820"
+                }
+            },
+            {
+                "000038": {
+                    "ADDRESS_1": "Sydney Hamilton",
+                    "CITY": "Lleida",
+                    "CLIENT_ID": "B9E3182E-F64C-CAEE-9422-286D2E705749",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000038",
+                    "STREET": "Ap #601-7388 Imperdiet Avenue",
+                    "ZIP": "2550"
+                }
+            },
+            {
+                "000039": {
+                    "ADDRESS_1": "Ashton Armstrong",
+                    "CITY": "Dunbar",
+                    "CLIENT_ID": "8F36E029-522B-43C0-61B3-CCACFE34EADD",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000039",
+                    "STREET": "530-7237 Est Ave",
+                    "ZIP": "53198"
+                }
+            },
+            {
+                "000047": {
+                    "ADDRESS_1": "Raphael Carter",
+                    "CITY": "Kurram Agency",
+                    "CLIENT_ID": "3D152829-22A9-6E65-3399-F28B5AEAC450",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000047",
+                    "STREET": "Ap #979-3396 Libero Rd.",
+                    "ZIP": "8731"
+                }
+            },
+            {
+                "000054": {
+                    "ADDRESS_1": "Destiny Porter",
+                    "CITY": "Segovia",
+                    "CLIENT_ID": "DB23A562-CD31-56DC-79C9-BC02D2E78355",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000054",
+                    "STREET": "Ap #443-3642 Ipsum. Avenue",
+                    "ZIP": "436257"
+                }
+            },
+            {
+                "000073": {
+                    "ADDRESS_1": "Calvin Noel",
+                    "CITY": "Kemerovo",
+                    "CLIENT_ID": "432FE570-B42B-4D28-0D2B-053D0EF495E4",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000073",
+                    "STREET": "758-9758 Nullam Av.",
+                    "ZIP": "461473"
+                }
+            },
+            {
+                "000086": {
+                    "ADDRESS_1": "Tad Trevino",
+                    "CITY": "Hamburg",
+                    "CLIENT_ID": "6BC5F93B-4964-92B9-572C-64F2E81BB332",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000086",
+                    "STREET": "884-4823 Nec St.",
+                    "ZIP": "3826"
+                }
+            },
+            {
+                "000093": {
+                    "ADDRESS_1": "Keegan Bartlett",
+                    "CITY": "Chimbote",
+                    "CLIENT_ID": "9EA39D3A-0AD4-AAA1-ACA3-BC5A4440928C",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000093",
+                    "STREET": "Ap #462-4712 Sodales Road",
+                    "ZIP": "20-313"
+                }
+            },
+            {
+                "000094": {
+                    "ADDRESS_1": "Slade Armstrong",
+                    "CITY": "Jhang",
+                    "CLIENT_ID": "52662A12-1315-A2F4-D117-A65183BEC347",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000094",
+                    "STREET": "Ap #577-2080 Nulla. Avenue",
+                    "ZIP": "42543"
+                }
+            },
+            {
+                "000100": {
+                    "ADDRESS_1": "McKenzie Colon",
+                    "CITY": "Cork",
+                    "CLIENT_ID": "2DD31417-799A-4B96-353E-554CB77B13B9",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000100",
+                    "STREET": "Ap #799-6463 Ornare St.",
+                    "ZIP": "5161"
+                }
+            },
+            {
+                "000108": {
+                    "ADDRESS_1": "Rana Morgan",
+                    "CITY": "Lakeland County",
+                    "CLIENT_ID": "2472C5AC-7B0A-B8C4-3429-C37527D1A2EE",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000108",
+                    "STREET": "793-8933 Penatibus St.",
+                    "ZIP": "8454"
+                }
+            },
+            {
+                "000155": {
+                    "ADDRESS_1": "Jenette Gordon",
+                    "CITY": "Bursa",
+                    "CLIENT_ID": "4DA54A86-4307-AD30-BDE9-285943533079",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000155",
+                    "STREET": "251-7241 Accumsan St.",
+                    "ZIP": "9674"
+                }
+            },
+            {
+                "000171": {
+                    "ADDRESS_1": "Kirsten Estrada",
+                    "CITY": "Osan",
+                    "CLIENT_ID": "7D943427-BAFC-6B82-4262-ACB4AC59C571",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000171",
+                    "STREET": "662 Tempus St.",
+                    "ZIP": "77-158"
+                }
+            },
+            {
+                "000178": {
+                    "ADDRESS_1": "Demetria Poole",
+                    "CITY": "Bendigo",
+                    "CLIENT_ID": "9A78162B-9D5E-B73A-AC15-1D4CB0570E2E",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000178",
+                    "STREET": "3375 Fringilla Av.",
+                    "ZIP": "442849"
+                }
+            }
+        ],
+        "United States": [
+            {
+                "000001": {
+                    "ADDRESS_1": "Rachel Cline",
+                    "CITY": "Etterbeek",
+                    "CLIENT_ID": "DB83DBBB-2CB5-3366-702D-71A86894686B",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000001",
+                    "STREET": "879-9505 Posuere Avenue",
+                    "ZIP": "64348-65760"
+                }
+            },
+            {
+                "000003": {
+                    "ADDRESS_1": "Quon Meyer",
+                    "CITY": "Leticia",
+                    "CLIENT_ID": "C3CCF50A-5CC3-CB67-3673-3A51B7A81A85",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000003",
+                    "STREET": "2674 Molestie Street",
+                    "ZIP": "638586"
+                }
+            },
+            {
+                "000011": {
+                    "ADDRESS_1": "Shoshana Watson",
+                    "CITY": "Dublin",
+                    "CLIENT_ID": "619CEB5C-23EF-5F12-7DE8-37C7B1F38747",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000011",
+                    "STREET": "Ap #605-2623 Suspendisse Road",
+                    "ZIP": "234813"
+                }
+            },
+            {
+                "000018": {
+                    "ADDRESS_1": "Tate Cotton",
+                    "CITY": "Baden",
+                    "CLIENT_ID": "0BE7E451-9B58-EC96-252E-A2C374C81C1D",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000018",
+                    "STREET": "3570 Rutrum Ave",
+                    "ZIP": "8018"
+                }
+            },
+            {
+                "000025": {
+                    "ADDRESS_1": "Whilemina Buckley",
+                    "CITY": "Neelum Valley",
+                    "CLIENT_ID": "30DBE7C1-5B8B-5B54-3BE6-838F664E489D",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000025",
+                    "STREET": "Ap #823-4970 Vivamus Road",
+                    "ZIP": "4286"
+                }
+            },
+            {
+                "000026": {
+                    "ADDRESS_1": "Quyn Donovan",
+                    "CITY": "Hamburg",
+                    "CLIENT_ID": "EE25C86B-D23D-ECA9-1037-A9D650FE3FAC",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000026",
+                    "STREET": "1012 Non Rd.",
+                    "ZIP": "28574"
+                }
+            },
+            {
+                "000033": {
+                    "ADDRESS_1": "Basil Macdonald",
+                    "CITY": "Bordeaux",
+                    "CLIENT_ID": "DC9B7748-A69A-74CC-2087-E7A331632AFC",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000033",
+                    "STREET": "Ap #650-7432 Eu St.",
+                    "ZIP": "71330-45963"
+                }
+            },
+            {
+                "000046": {
+                    "ADDRESS_1": "Sydnee Cote",
+                    "CITY": "Heusweiler",
+                    "CLIENT_ID": "97911E71-CB2D-5184-CC8A-42DC2183A499",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000046",
+                    "STREET": "974-6266 In Road",
+                    "ZIP": "2489"
+                }
+            },
+            {
+                "000061": {
+                    "ADDRESS_1": "Adrienne Rodriguez",
+                    "CITY": "Seloignes",
+                    "CLIENT_ID": "C3FD6731-E3AC-272F-FB9A-2488A30CF92B",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000061",
+                    "STREET": "912-3866 Dictum Ave",
+                    "ZIP": "2477"
+                }
+            },
+            {
+                "000062": {
+                    "ADDRESS_1": "Zeus Mcintyre",
+                    "CITY": "Corozal",
+                    "CLIENT_ID": "4E52B6E3-14DA-8037-D362-156695A0FD9B",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000062",
+                    "STREET": "Ap #957-9878 Duis Street",
+                    "ZIP": "368311"
+                }
+            },
+            {
+                "000069": {
+                    "ADDRESS_1": "Melyssa Schroeder",
+                    "CITY": "Coldstream",
+                    "CLIENT_ID": "F82281BD-5F47-B472-6238-A4CE82F17112",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000069",
+                    "STREET": "3676 Donec Avenue",
+                    "ZIP": "942443"
+                }
+            },
+            {
+                "000080": {
+                    "ADDRESS_1": "Germane Barnes",
+                    "CITY": "Kirov",
+                    "CLIENT_ID": "AE64F6D4-D79A-4178-4D55-4CF112AA2C57",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000080",
+                    "STREET": "Ap #970-5344 Mi St.",
+                    "ZIP": "91736"
+                }
+            },
+            {
+                "000084": {
+                    "ADDRESS_1": "Cassady Hamilton",
+                    "CITY": "Le Grand-Quevilly",
+                    "CLIENT_ID": "3232E953-DA7F-4C75-53C2-9D1A18C15B17",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000084",
+                    "STREET": "Ap #389-8476 Urna Av.",
+                    "ZIP": "0746 TJ"
+                }
+            },
+            {
+                "000085": {
+                    "ADDRESS_1": "Vivien Schultz",
+                    "CITY": "Pelotas",
+                    "CLIENT_ID": "B45FE830-9A16-ACCA-D4F2-9355C9411216",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000085",
+                    "STREET": "Ap #628-1549 Faucibus Av.",
+                    "ZIP": "4454"
+                }
+            },
+            {
+                "000107": {
+                    "ADDRESS_1": "Scarlet Wiley",
+                    "CITY": "Chimbote",
+                    "CLIENT_ID": "7A8D498F-BC9D-C338-41C0-B7B6DDED3A67",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000107",
+                    "STREET": "500-3658 Neque Ave",
+                    "ZIP": "727353"
+                }
+            },
+            {
+                "000120": {
+                    "ADDRESS_1": "Garrett Miller",
+                    "CITY": "Inveraray",
+                    "CLIENT_ID": "8CCB0981-E67D-8512-6DE6-BDDD7F131E77",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000120",
+                    "STREET": "495 Convallis Street",
+                    "ZIP": "11025"
+                }
+            },
+            {
+                "000124": {
+                    "ADDRESS_1": "Pascale Newton",
+                    "CITY": "Troyes",
+                    "CLIENT_ID": "CA01E783-4E31-C285-D745-D6F8429BE1B6",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000124",
+                    "STREET": "6329 Egestas Ave",
+                    "ZIP": "51200"
+                }
+            },
+            {
+                "000131": {
+                    "ADDRESS_1": "Brynne Mccall",
+                    "CITY": "Okigwe",
+                    "CLIENT_ID": "904FA251-41CF-9417-6202-3EB6C5B67DDE",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000131",
+                    "STREET": "3971 Augue. Road",
+                    "ZIP": "3412"
+                }
+            },
+            {
+                "000139": {
+                    "ADDRESS_1": "Berk Farmer",
+                    "CITY": "Sosnowiec",
+                    "CLIENT_ID": "1266C00E-5937-8EBD-D6B7-ABCB5FF29221",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000139",
+                    "STREET": "8064 Faucibus Avenue",
+                    "ZIP": "374827"
+                }
+            },
+            {
+                "000140": {
+                    "ADDRESS_1": "Cherokee Norman",
+                    "CITY": "Chulucanas",
+                    "CLIENT_ID": "A95DC40C-A989-40EC-DD72-3EAE0E43BA3F",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000140",
+                    "STREET": "4347 Condimentum. St.",
+                    "ZIP": "62524"
+                }
+            },
+            {
+                "000167": {
+                    "ADDRESS_1": "Elton Cash",
+                    "CITY": "Cork",
+                    "CLIENT_ID": "0EDD7B45-529E-DD5A-8B39-3A767EB5ECB5",
+                    "COUNTRY": "United States",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000167",
+                    "STREET": "Ap #396-8702 Suspendisse St.",
+                    "ZIP": "924343"
+                }
+            }
+        ]
+    },
+    "B": {
+        "France": [
+            {
+                "000008": {
+                    "ADDRESS_1": "Lunea Horne",
+                    "CITY": "Leoben",
+                    "CLIENT_ID": "61775DC9-769B-388B-C718-13CF1A1956D4",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000008",
+                    "STREET": "Ap #826-5587 Sociis St.",
+                    "ZIP": "78086"
+                }
+            },
+            {
+                "000024": {
+                    "ADDRESS_1": "Zachary Stein",
+                    "CITY": "Elbistan",
+                    "CLIENT_ID": "F9BD764F-4B0E-A39D-1756-86DD11935397",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000024",
+                    "STREET": "851-2063 At Rd.",
+                    "ZIP": "3781"
+                }
+            },
+            {
+                "000031": {
+                    "ADDRESS_1": "Florence Lopez",
+                    "CITY": "Liberia",
+                    "CLIENT_ID": "2EAD64FB-F931-B89B-9BD9-6D7EEA9289A6",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000031",
+                    "STREET": "392-8991 Fringilla Rd.",
+                    "ZIP": "15527"
+                }
+            },
+            {
+                "000032": {
+                    "ADDRESS_1": "Paula Sykes",
+                    "CITY": "Shimla",
+                    "CLIENT_ID": "4BD0E184-F08F-2BBA-3408-E635D23B9899",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000032",
+                    "STREET": "6261 Congue Rd.",
+                    "ZIP": "692715"
+                }
+            },
+            {
+                "000044": {
+                    "ADDRESS_1": "Akeem Casey",
+                    "CITY": "General Lagos",
+                    "CLIENT_ID": "B2B65648-EB58-3E3D-CCE5-353199566302",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000044",
+                    "STREET": "732-7361 Lacus. Avenue",
+                    "ZIP": "712642"
+                }
+            },
+            {
+                "000050": {
+                    "ADDRESS_1": "Hall House",
+                    "CITY": "Khushab",
+                    "CLIENT_ID": "5B1E2D5F-174C-03D2-DE98-3D3818712E93",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000050",
+                    "STREET": "1955 Dolor Rd.",
+                    "ZIP": "474815"
+                }
+            },
+            {
+                "000067": {
+                    "ADDRESS_1": "Kim Joyce",
+                    "CITY": "Stirling",
+                    "CLIENT_ID": "BD18FC39-B5A3-996B-E6B9-2339939E69B3",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000067",
+                    "STREET": "936-6579 Nisi. Avenue",
+                    "ZIP": "75184"
+                }
+            },
+            {
+                "000068": {
+                    "ADDRESS_1": "Nathaniel Lamb",
+                    "CITY": "Picton",
+                    "CLIENT_ID": "468BB681-D147-7C3A-4C7D-7A5B34AF5F87",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000068",
+                    "STREET": "170-1741 Non Av.",
+                    "ZIP": "21307"
+                }
+            },
+            {
+                "000087": {
+                    "ADDRESS_1": "Aidan Clark",
+                    "CITY": "Gasteiz",
+                    "CLIENT_ID": "6C2DD6AB-F312-B9F5-DBF8-D6754EDC01A9",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000087",
+                    "STREET": "Ap #325-7997 Morbi St.",
+                    "ZIP": "57259"
+                }
+            },
+            {
+                "000097": {
+                    "ADDRESS_1": "Florence Chambers",
+                    "CITY": "Pamplona",
+                    "CLIENT_ID": "B29C458B-2572-8CCA-14CE-8213E211CA5A",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000097",
+                    "STREET": "7520 Turpis. Street",
+                    "ZIP": "5025"
+                }
+            },
+            {
+                "000130": {
+                    "ADDRESS_1": "Maggy Bartlett",
+                    "CITY": "Champigny-sur-Marne",
+                    "CLIENT_ID": "86217BDA-F0AC-1BEC-3C94-78DEE1873683",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000130",
+                    "STREET": "Ap #946-1830 Sem St.",
+                    "ZIP": "412783"
+                }
+            },
+            {
+                "000134": {
+                    "ADDRESS_1": "Jin Richard",
+                    "CITY": "Nantes",
+                    "CLIENT_ID": "33E5EC3A-4877-44B8-8662-E6E4D8C895FB",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000134",
+                    "STREET": "Ap #122-7335 Quisque Rd.",
+                    "ZIP": "744179"
+                }
+            },
+            {
+                "000145": {
+                    "ADDRESS_1": "Carter Meadows",
+                    "CITY": "Linz",
+                    "CLIENT_ID": "D23EEB39-E4E7-1FD4-F881-7C4E9CB5E6B4",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000145",
+                    "STREET": "Ap #443-1451 Nisi Rd.",
+                    "ZIP": "932185"
+                }
+            },
+            {
+                "000146": {
+                    "ADDRESS_1": "Gail Vasquez",
+                    "CITY": "Irkutsk",
+                    "CLIENT_ID": "76428CAF-6723-28C0-371C-D1C6367E294B",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000146",
+                    "STREET": "565-5708 Dis St.",
+                    "ZIP": "32924"
+                }
+            },
+            {
+                "000161": {
+                    "ADDRESS_1": "Cyrus Ewing",
+                    "CITY": "Altidona",
+                    "CLIENT_ID": "DBCC143E-5B89-DDC3-1AAE-D4811E84B323",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000161",
+                    "STREET": "Ap #111-9730 A Rd.",
+                    "ZIP": "12167-11585"
+                }
+            },
+            {
+                "000165": {
+                    "ADDRESS_1": "Brady York",
+                    "CITY": "Lelystad",
+                    "CLIENT_ID": "D24DA916-0683-CCD5-3F61-884602B7934B",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000165",
+                    "STREET": "Ap #546-9241 Lacus. St.",
+                    "ZIP": "2756"
+                }
+            },
+            {
+                "000176": {
+                    "ADDRESS_1": "Lunea Gould",
+                    "CITY": "Pabianice",
+                    "CLIENT_ID": "F543BC5D-1244-6594-C08B-312D85213403",
+                    "COUNTRY": "France",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000176",
+                    "STREET": "452-9197 Ipsum. Road",
+                    "ZIP": "6442"
+                }
+            }
+        ],
+        "United States": [
+            {
+                "000004": {
+                    "ADDRESS_1": "Evangeline Mayo",
+                    "CITY": "Nazilli",
+                    "CLIENT_ID": "1CB9F9FE-2225-8558-87D0-6B75EF554C6D",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000004",
+                    "STREET": "722-3796 Sit Street",
+                    "ZIP": "2878"
+                }
+            },
+            {
+                "000014": {
+                    "ADDRESS_1": "Brynn Rush",
+                    "CITY": "Porto Alegre",
+                    "CLIENT_ID": "E4B9456A-D94D-5857-EE2F-6C232DFEECA3",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000014",
+                    "STREET": "Ap #892-2845 Donec Av.",
+                    "ZIP": "227494"
+                }
+            },
+            {
+                "000015": {
+                    "ADDRESS_1": "Sybill Moran",
+                    "CITY": "Ockelbo",
+                    "CLIENT_ID": "B25E6673-2D4A-22E1-4571-46770FECA681",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000015",
+                    "STREET": "6989 Et St.",
+                    "ZIP": "74302"
+                }
+            },
+            {
+                "000020": {
+                    "ADDRESS_1": "Wayne Bryant",
+                    "CITY": "Ciudad Apodaca",
+                    "CLIENT_ID": "31A1A9E1-E177-710D-2CEC-2AAD1507CAAB",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000020",
+                    "STREET": "430-2251 Sit Rd.",
+                    "ZIP": "4122 PS"
+                }
+            },
+            {
+                "000040": {
+                    "ADDRESS_1": "Quamar Marsh",
+                    "CITY": "Mango",
+                    "CLIENT_ID": "558F7353-45C6-1C26-112B-8C3D3534CC85",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000040",
+                    "STREET": "Ap #789-2621 Non Av.",
+                    "ZIP": "298880"
+                }
+            },
+            {
+                "000051": {
+                    "ADDRESS_1": "Emmanuel Pickett",
+                    "CITY": "Preston",
+                    "CLIENT_ID": "1A810D03-331C-5E25-6848-18049717FB7A",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000051",
+                    "STREET": "922-5072 Sem Rd.",
+                    "ZIP": "4971 VZ"
+                }
+            },
+            {
+                "000056": {
+                    "ADDRESS_1": "Uma Roberson",
+                    "CITY": "Tarma",
+                    "CLIENT_ID": "12A1662A-4742-6FA7-52C9-FCFC45C2C8D4",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000056",
+                    "STREET": "Ap #197-2573 Vitae Av.",
+                    "ZIP": "52914"
+                }
+            },
+            {
+                "000060": {
+                    "ADDRESS_1": "Sade Finley",
+                    "CITY": "Dessau",
+                    "CLIENT_ID": "7BBCBC83-D12C-89C1-8364-C532CD781EA7",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000060",
+                    "STREET": "Ap #418-6480 Ipsum Rd.",
+                    "ZIP": "17934"
+                }
+            },
+            {
+                "000078": {
+                    "ADDRESS_1": "Kathleen Simpson",
+                    "CITY": "Huesca",
+                    "CLIENT_ID": "E507E6C5-2522-CB1A-14ED-BA64477B433D",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000078",
+                    "STREET": "Ap #546-2937 Egestas Rd.",
+                    "ZIP": "68167"
+                }
+            },
+            {
+                "000079": {
+                    "ADDRESS_1": "Ezekiel Willis",
+                    "CITY": "Jecheon",
+                    "CLIENT_ID": "29EA856E-B6B2-6248-A4AC-6C11D622DC24",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000079",
+                    "STREET": "2792 Sed Av.",
+                    "ZIP": "464737"
+                }
+            },
+            {
+                "000091": {
+                    "ADDRESS_1": "Kieran Riddle",
+                    "CITY": "Montgomery",
+                    "CLIENT_ID": "7268A47F-02DD-F74A-B8FC-E7BCF559C245",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000091",
+                    "STREET": "Ap #592-9201 Ultrices. St.",
+                    "ZIP": "32152830"
+                }
+            },
+            {
+                "000098": {
+                    "ADDRESS_1": "Lewis Holcomb",
+                    "CITY": "Tarragona",
+                    "CLIENT_ID": "70B25286-E5C3-87E2-40B5-E230573EAA2A",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000098",
+                    "STREET": "522-5900 Libero. St.",
+                    "ZIP": "145135"
+                }
+            },
+            {
+                "000102": {
+                    "ADDRESS_1": "Charlotte Ingram",
+                    "CITY": "Weston-super-Mare",
+                    "CLIENT_ID": "8384F5D7-EEC3-0277-F64C-23CF6330CB4B",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000102",
+                    "STREET": "Ap #153-9465 Cras Ave",
+                    "ZIP": "596407"
+                }
+            },
+            {
+                "000106": {
+                    "ADDRESS_1": "Claudia Carver",
+                    "CITY": "Taltal",
+                    "CLIENT_ID": "06FE6C15-8355-DBBB-677C-E70667767DB8",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000106",
+                    "STREET": "7804 Augue. Ave",
+                    "ZIP": "30216"
+                }
+            },
+            {
+                "000113": {
+                    "ADDRESS_1": "Mara York",
+                    "CITY": "Mores",
+                    "CLIENT_ID": "F685DABA-A3BD-A577-CE7C-C98892371BA1",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000113",
+                    "STREET": "7833 Sodales Road",
+                    "ZIP": "251918"
+                }
+            },
+            {
+                "000114": {
+                    "ADDRESS_1": "Myles Wiley",
+                    "CITY": "Nocera Umbra",
+                    "CLIENT_ID": "727C7C3B-C444-D5B1-42E9-C2542CB33919",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000114",
+                    "STREET": "5990 Scelerisque Rd.",
+                    "ZIP": "8572"
+                }
+            },
+            {
+                "000118": {
+                    "ADDRESS_1": "Aphrodite Kaufman",
+                    "CITY": "Utrecht",
+                    "CLIENT_ID": "4C8F141D-7568-0582-B004-B3DB6D17A7B2",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000118",
+                    "STREET": "242-976 Sollicitudin Av.",
+                    "ZIP": "562245"
+                }
+            },
+            {
+                "000119": {
+                    "ADDRESS_1": "Keefe Daniels",
+                    "CITY": "Hastings",
+                    "CLIENT_ID": "E4F1CE54-B783-6658-7BE5-B61DC2FAFBB9",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000119",
+                    "STREET": "483-6343 Eget Street",
+                    "ZIP": "6749"
+                }
+            },
+            {
+                "000129": {
+                    "ADDRESS_1": "Otto Walker",
+                    "CITY": "San Francisco",
+                    "CLIENT_ID": "02E7853B-E584-D191-AC60-32DA75ADCA5F",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000129",
+                    "STREET": "Ap #223-6164 Interdum. Rd.",
+                    "ZIP": "4253"
+                }
+            },
+            {
+                "000138": {
+                    "ADDRESS_1": "Jessamine Anthony",
+                    "CITY": "Cork",
+                    "CLIENT_ID": "DF786B37-7928-52D6-3319-3DF3E69A32CC",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000138",
+                    "STREET": "589-4338 Morbi Av.",
+                    "ZIP": "231233"
+                }
+            },
+            {
+                "000150": {
+                    "ADDRESS_1": "Vivian Barlow",
+                    "CITY": "Alkmaar",
+                    "CLIENT_ID": "F818D840-0773-5C7A-25DC-5D395733917D",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000150",
+                    "STREET": "Ap #247-7282 Duis Road",
+                    "ZIP": "X98 5RO"
+                }
+            },
+            {
+                "000151": {
+                    "ADDRESS_1": "Isadora Davis",
+                    "CITY": "Cheonan",
+                    "CLIENT_ID": "686AFDE5-6B8E-F6E0-5A09-641158CE3FAC",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000151",
+                    "STREET": "Ap #347-3956 Maecenas Street",
+                    "ZIP": "241136"
+                }
+            },
+            {
+                "000166": {
+                    "ADDRESS_1": "Daquan Love",
+                    "CITY": "Bergen",
+                    "CLIENT_ID": "CEE4E99B-A826-8848-3338-A56C86167F6E",
+                    "COUNTRY": "United States",
+                    "GROUP": "B",
+                    "SEQUENCE_ID": "000166",
+                    "STREET": "2180 Sociis Road",
+                    "ZIP": "684243"
+                }
+            }
+        ]
+    },
+    "C": {
+        "France": [
+            {
+                "000006": {
+                    "ADDRESS_1": "Camille Kent",
+                    "CITY": "Tumba",
+                    "CLIENT_ID": "3E77803D-3882-D87A-91F2-76671FF96EC6",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000006",
+                    "STREET": "270-7783 Elit St.",
+                    "ZIP": "554755"
+                }
+            },
+            {
+                "000017": {
+                    "ADDRESS_1": "Charissa Rivers",
+                    "CITY": "Calama",
+                    "CLIENT_ID": "EE85B631-BC6C-DAB4-BFD1-F95C82486D13",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000017",
+                    "STREET": "262-2543 Rhoncus. St.",
+                    "ZIP": "6663"
+                }
+            },
+            {
+                "000021": {
+                    "ADDRESS_1": "Aurora Valenzuela",
+                    "CITY": "Arauca",
+                    "CLIENT_ID": "9B826CCD-AC96-7D08-DF29-AE872217D4AE",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000021",
+                    "STREET": "Ap #816-5268 Sit Av.",
+                    "ZIP": "2686"
+                }
+            },
+            {
+                "000042": {
+                    "ADDRESS_1": "Brenda Colon",
+                    "CITY": "Thalassery",
+                    "CLIENT_ID": "C687EB02-BD8E-850B-9CB0-07EFDB9E234A",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000042",
+                    "STREET": "Ap #378-1264 Erat Av.",
+                    "ZIP": "IK77 7IL"
+                }
+            },
+            {
+                "000043": {
+                    "ADDRESS_1": "Colton Knox",
+                    "CITY": "Puno",
+                    "CLIENT_ID": "11B8DC8D-AE2A-2B49-3BB1-C2B20377D918",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000043",
+                    "STREET": "Ap #394-9169 Duis Av.",
+                    "ZIP": "699814"
+                }
+            },
+            {
+                "000048": {
+                    "ADDRESS_1": "John Hubbard",
+                    "CITY": "Baden",
+                    "CLIENT_ID": "989CA4C5-1CA8-169F-2425-AA15285C8A55",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000048",
+                    "STREET": "828-5141 Phasellus Street",
+                    "ZIP": "22877"
+                }
+            },
+            {
+                "000053": {
+                    "ADDRESS_1": "Yvonne Hensley",
+                    "CITY": "Kemerovo",
+                    "CLIENT_ID": "473E8D32-D29C-9E66-69D2-E7A83AF5D339",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000053",
+                    "STREET": "952-3736 Mauris Rd.",
+                    "ZIP": "907754"
+                }
+            },
+            {
+                "000058": {
+                    "ADDRESS_1": "Dane Hancock",
+                    "CITY": "Juliaca",
+                    "CLIENT_ID": "E84ED233-157E-B26E-75D3-8451B144B783",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000058",
+                    "STREET": "688-2543 In St.",
+                    "ZIP": "31525"
+                }
+            },
+            {
+                "000081": {
+                    "ADDRESS_1": "Igor Manning",
+                    "CITY": "Jeongeup",
+                    "CLIENT_ID": "0BD105E5-2273-2B3F-E2EE-9F014E1CBABF",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000081",
+                    "STREET": "1002 Justo St.",
+                    "ZIP": "6171"
+                }
+            },
+            {
+                "000089": {
+                    "ADDRESS_1": "Yuri Mckay",
+                    "CITY": "Dublin",
+                    "CLIENT_ID": "F4E1FC90-DDAB-35F3-45F3-8EB6834B7DF2",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000089",
+                    "STREET": "Ap #623-8370 Morbi Avenue",
+                    "ZIP": "66338"
+                }
+            },
+            {
+                "000103": {
+                    "ADDRESS_1": "Rahim Schwartz",
+                    "CITY": "Beijing",
+                    "CLIENT_ID": "952658FC-E2A3-7C58-10A5-13D33CC2A3DE",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000103",
+                    "STREET": "Ap #793-8695 Urna. Av.",
+                    "ZIP": "11941"
+                }
+            },
+            {
+                "000104": {
+                    "ADDRESS_1": "Quinn Glenn",
+                    "CITY": "Canela",
+                    "CLIENT_ID": "DFB82A93-E4E2-B8BC-5CE5-C55AF2848F25",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000104",
+                    "STREET": "973-3025 Quis St.",
+                    "ZIP": "753879"
+                }
+            },
+            {
+                "000121": {
+                    "ADDRESS_1": "Oliver Ratliff",
+                    "CITY": "Cork",
+                    "CLIENT_ID": "1C3CEE51-9744-34C7-E343-E285D3884F34",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000121",
+                    "STREET": "Ap #908-7870 Ac St.",
+                    "ZIP": "551873"
+                }
+            },
+            {
+                "000132": {
+                    "ADDRESS_1": "Elliott Marks",
+                    "CITY": "Gwangyang",
+                    "CLIENT_ID": "8D0EAE26-5735-5C6C-EADA-4BA3E7A3D9B4",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000132",
+                    "STREET": "Ap #580-1400 Euismod Rd.",
+                    "ZIP": "787892"
+                }
+            },
+            {
+                "000135": {
+                    "ADDRESS_1": "Hedley Kidd",
+                    "CITY": "Ovalle",
+                    "CLIENT_ID": "43DAECC1-8FDC-C7B4-AD49-2E2217C26493",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000135",
+                    "STREET": "2053 Vel Rd.",
+                    "ZIP": "45711"
+                }
+            },
+            {
+                "000153": {
+                    "ADDRESS_1": "Charles Kinney",
+                    "CITY": "Cork",
+                    "CLIENT_ID": "DDA45C54-22B8-9749-9985-1BBBB8239D6D",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000153",
+                    "STREET": "182-2808 Luctus Street",
+                    "ZIP": "95232"
+                }
+            },
+            {
+                "000175": {
+                    "ADDRESS_1": "Carl Ashley",
+                    "CITY": "Zierikzee",
+                    "CLIENT_ID": "168C3ED1-88B5-7C25-2180-F7E3B0515364",
+                    "COUNTRY": "France",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000175",
+                    "STREET": "Ap #126-6083 Pellentesque Av.",
+                    "ZIP": "6978 FI"
+                }
+            }
+        ],
+        "United States": [
+            {
+                "000007": {
+                    "ADDRESS_1": "Aquila Jacobson",
+                    "CITY": "Traiskirchen",
+                    "CLIENT_ID": "6C8BB8FA-4CD4-AC78-7E37-97A3AE535B91",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000007",
+                    "STREET": "Ap #608-5907 Nunc St.",
+                    "ZIP": "42435-153"
+                }
+            },
+            {
+                "000012": {
+                    "ADDRESS_1": "Lesley Cain",
+                    "CITY": "Waitakere",
+                    "CLIENT_ID": "59472D35-BAE9-205F-6464-A2F111443F19",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000012",
+                    "STREET": "2150 Condimentum. Street",
+                    "ZIP": "42127"
+                }
+            },
+            {
+                "000016": {
+                    "ADDRESS_1": "Amelia Lucas",
+                    "CITY": "Yorkton",
+                    "CLIENT_ID": "4FEC0FA8-0E8C-B4DD-0B69-29A13A71EC1C",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000016",
+                    "STREET": "Ap #526-2555 Posuere St.",
+                    "ZIP": "617153"
+                }
+            },
+            {
+                "000022": {
+                    "ADDRESS_1": "Mallory Jefferson",
+                    "CITY": "Melilla",
+                    "CLIENT_ID": "FF8DEB76-918F-BD0A-4C97-B9A17937B708",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000022",
+                    "STREET": "842-2931 Sit St.",
+                    "ZIP": "18425"
+                }
+            },
+            {
+                "000034": {
+                    "ADDRESS_1": "Jack Aguilar",
+                    "CITY": "Turbo",
+                    "CLIENT_ID": "C3142A6C-D1F2-26B8-AC16-88AB946C9511",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000034",
+                    "STREET": "Ap #833-737 Lacus. Rd.",
+                    "ZIP": "512605"
+                }
+            },
+            {
+                "000052": {
+                    "ADDRESS_1": "Chaney Chapman",
+                    "CITY": "Beijing",
+                    "CLIENT_ID": "66D8A142-591E-21E6-9FBB-D5CB612347E0",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000052",
+                    "STREET": "Ap #908-6966 Cras Rd.",
+                    "ZIP": "6443"
+                }
+            },
+            {
+                "000057": {
+                    "ADDRESS_1": "Kyra Hoover",
+                    "CITY": "Alanya",
+                    "CLIENT_ID": "8E20C4E6-E79E-E0BB-ECD5-15F21D5551B9",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000057",
+                    "STREET": "Ap #211-3842 Rutrum St.",
+                    "ZIP": "11812"
+                }
+            },
+            {
+                "000070": {
+                    "ADDRESS_1": "Sheila Wall",
+                    "CITY": "Ludlow",
+                    "CLIENT_ID": "55DE5FAE-E9CF-F2D5-6AA1-9C3E4A60DA1E",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000070",
+                    "STREET": "5026 Auctor Rd.",
+                    "ZIP": "25256"
+                }
+            },
+            {
+                "000090": {
+                    "ADDRESS_1": "Brady Hinton",
+                    "CITY": "Beijing",
+                    "CLIENT_ID": "8761CC73-164B-BFBA-C76D-B715CDE84685",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000090",
+                    "STREET": "334-3262 A Rd.",
+                    "ZIP": "39548"
+                }
+            },
+            {
+                "000095": {
+                    "ADDRESS_1": "Pandora Hensley",
+                    "CITY": "Kielce",
+                    "CLIENT_ID": "657E6BD9-ADA7-F4C4-D1BA-E66125D465D0",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000095",
+                    "STREET": "Ap #633-2256 Nascetur Av.",
+                    "ZIP": "18336"
+                }
+            },
+            {
+                "000099": {
+                    "ADDRESS_1": "Callum Swanson",
+                    "CITY": "Bissegem",
+                    "CLIENT_ID": "30ECD262-B5E8-1992-097C-CEEB9A5C382C",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000099",
+                    "STREET": "751-6603 Rutrum. Rd.",
+                    "ZIP": "976862"
+                }
+            },
+            {
+                "000136": {
+                    "ADDRESS_1": "Bruce Morrison",
+                    "CITY": "Joliet",
+                    "CLIENT_ID": "BBF22A5C-BE5F-B1D6-0B4D-4736A5BF7D0E",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000136",
+                    "STREET": "675-9596 In St.",
+                    "ZIP": "10061"
+                }
+            },
+            {
+                "000168": {
+                    "ADDRESS_1": "Reed Stanley",
+                    "CITY": "Pinkafeld",
+                    "CLIENT_ID": "437491A8-8D84-9ED5-D98A-617D7EA35E26",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000168",
+                    "STREET": "Ap #713-9516 Facilisis. Rd.",
+                    "ZIP": "7262"
+                }
+            },
+            {
+                "000174": {
+                    "ADDRESS_1": "Xander Sullivan",
+                    "CITY": "Yeongju",
+                    "CLIENT_ID": "1B146353-5319-5B6B-77E6-54D84E777832",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000174",
+                    "STREET": "351-557 Velit. Ave",
+                    "ZIP": "99171"
+                }
+            },
+            {
+                "000180": {
+                    "ADDRESS_1": "Mara Mccray",
+                    "CITY": "Agartala",
+                    "CLIENT_ID": "B7B632AA-0987-0BE7-2E37-E30F94A1F4EE",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000180",
+                    "STREET": "Ap #789-1565 Mauris Avenue",
+                    "ZIP": "39691"
+                }
+            }
+        ]
+    },
+    "D": {
+        "France": [
+            {
+                "000005": {
+                    "ADDRESS_1": "Margaret Oneal",
+                    "CITY": "Edremit",
+                    "CLIENT_ID": "EBD14318-D666-6375-76C7-D8AB807611E4",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000005",
+                    "STREET": "862-3081 Donec Street",
+                    "ZIP": "758185"
+                }
+            },
+            {
+                "000009": {
+                    "ADDRESS_1": "Chaney Pierce",
+                    "CITY": "Inner Mongolia",
+                    "CLIENT_ID": "6E88192D-D5C2-7EC1-CA4A-88449E56CD70",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000009",
+                    "STREET": "Ap #161-7851 Nisi. Rd.",
+                    "ZIP": "188773"
+                }
+            },
+            {
+                "000013": {
+                    "ADDRESS_1": "Eaton Cline",
+                    "CITY": "San Isidro",
+                    "CLIENT_ID": "876B040D-5ED5-3F74-C2B1-BC56D0EA56C7",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000013",
+                    "STREET": "429 Libero. Rd.",
+                    "ZIP": "715841"
+                }
+            },
+            {
+                "000019": {
+                    "ADDRESS_1": "Basil Stewart",
+                    "CITY": "Emmen",
+                    "CLIENT_ID": "DE1C3274-16A9-A9E9-55B1-CAA7C3A9BC98",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000019",
+                    "STREET": "Ap #120-5307 Vel Road",
+                    "ZIP": "303071"
+                }
+            },
+            {
+                "000027": {
+                    "ADDRESS_1": "Dale Justice",
+                    "CITY": "Yogyakarta",
+                    "CLIENT_ID": "2C892F8E-8B5E-4EDD-2E4D-1DB4B5D5D983",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000027",
+                    "STREET": "673-6448 Non Road",
+                    "ZIP": "45444"
+                }
+            },
+            {
+                "000041": {
+                    "ADDRESS_1": "Sage Wilcox",
+                    "CITY": "Gmunden",
+                    "CLIENT_ID": "D736C7B2-8936-F63B-E9EE-2B5936BDE595",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000041",
+                    "STREET": "110-3974 Mauris Road",
+                    "ZIP": "3395"
+                }
+            },
+            {
+                "000049": {
+                    "ADDRESS_1": "Fulton Gallagher",
+                    "CITY": "Saint Paul",
+                    "CLIENT_ID": "E8011CB7-B2F4-D0D4-1081-DE16BED2BC23",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000049",
+                    "STREET": "Ap #912-9209 Varius. Av.",
+                    "ZIP": "51708"
+                }
+            },
+            {
+                "000055": {
+                    "ADDRESS_1": "Colt Roberts",
+                    "CITY": "Valbrevenna",
+                    "CLIENT_ID": "1A4E7293-B75E-E9D4-89E3-F469F4A9642E",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000055",
+                    "STREET": "Ap #363-1542 Mauris St.",
+                    "ZIP": "37772"
+                }
+            },
+            {
+                "000071": {
+                    "ADDRESS_1": "Ginger Sampson",
+                    "CITY": "Temuka",
+                    "CLIENT_ID": "3A5AC694-1348-BA8A-23A9-6B1588566A93",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000071",
+                    "STREET": "937-8869 Vel Street",
+                    "ZIP": "63483"
+                }
+            },
+            {
+                "000074": {
+                    "ADDRESS_1": "Aristotle Duke",
+                    "CITY": "Lauterach",
+                    "CLIENT_ID": "0A7208B2-7045-8681-5758-1782C8E6CC9D",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000074",
+                    "STREET": "8164 Ipsum Street",
+                    "ZIP": "22213"
+                }
+            },
+            {
+                "000088": {
+                    "ADDRESS_1": "Henry Whitney",
+                    "CITY": "Edmundston",
+                    "CLIENT_ID": "C4583395-9DBF-694B-2DA5-21C3D85A4253",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000088",
+                    "STREET": "Ap #955-1555 Eget Street",
+                    "ZIP": "32648"
+                }
+            },
+            {
+                "000096": {
+                    "ADDRESS_1": "Thomas Dickerson",
+                    "CITY": "La Thuile",
+                    "CLIENT_ID": "2919DF16-5578-8AAE-4B26-6989195ADBF8",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000096",
+                    "STREET": "Ap #521-8673 Vitae Avenue",
+                    "ZIP": "4639"
+                }
+            },
+            {
+                "000105": {
+                    "ADDRESS_1": "Alice Villarreal",
+                    "CITY": "Bajaur Agency",
+                    "CLIENT_ID": "4D4916AB-70D4-453E-5336-712FD5764946",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000105",
+                    "STREET": "Ap #995-7631 Tempor Rd.",
+                    "ZIP": "614761"
+                }
+            },
+            {
+                "000125": {
+                    "ADDRESS_1": "Zeph Holcomb",
+                    "CITY": "Tampa",
+                    "CLIENT_ID": "9565783C-5958-A5AA-EA2A-AF5833A9BF92",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000125",
+                    "STREET": "812-8629 Dapibus Rd.",
+                    "ZIP": "24283"
+                }
+            },
+            {
+                "000154": {
+                    "ADDRESS_1": "Elaine Bradford",
+                    "CITY": "Roubaix",
+                    "CLIENT_ID": "135795C6-313B-47B9-2577-36A532347472",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000154",
+                    "STREET": "Ap #140-2667 In St.",
+                    "ZIP": "U3O 2PH"
+                }
+            },
+            {
+                "000177": {
+                    "ADDRESS_1": "Scarlett Best",
+                    "CITY": "Breda",
+                    "CLIENT_ID": "C80AED77-56FA-8D9D-B48C-ADCE08D4C7D5",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000177",
+                    "STREET": "142-3426 Dui. Street",
+                    "ZIP": "814865"
+                }
+            },
+            {
+                "000181": {
+                    "ADDRESS_1": "Nora Fry",
+                    "CITY": "Olinda",
+                    "CLIENT_ID": "73CBBBD7-1198-DC5C-71DE-B6974115C4C0",
+                    "COUNTRY": "France",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000181",
+                    "STREET": "378-3619 Lectus. Avenue",
+                    "ZIP": "18281"
+                }
+            }
+        ],
+        "United States": [
+            {
+                "000023": {
+                    "ADDRESS_1": "Jason Henderson",
+                    "CITY": "Badajoz",
+                    "CLIENT_ID": "11271BC6-10C6-1276-BBBA-55B4E64DDBD0",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000023",
+                    "STREET": "Ap #512-3738 Ut Rd.",
+                    "ZIP": "24938"
+                }
+            },
+            {
+                "000035": {
+                    "ADDRESS_1": "Sasha Cruz",
+                    "CITY": "Puerto Vallarta",
+                    "CLIENT_ID": "7B3A3B3A-F57E-1CDD-7C21-99E2E873C837",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000035",
+                    "STREET": "5101 Mauris Road",
+                    "ZIP": "Y2A 3QE"
+                }
+            },
+            {
+                "000045": {
+                    "ADDRESS_1": "Kenneth Whitaker",
+                    "CITY": "Timaru",
+                    "CLIENT_ID": "765A5E2B-348A-6A4F-BA99-A62A4E7A44E0",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000045",
+                    "STREET": "114-2352 Scelerisque St.",
+                    "ZIP": "5674"
+                }
+            },
+            {
+                "000059": {
+                    "ADDRESS_1": "Elton Duncan",
+                    "CITY": "Otegem",
+                    "CLIENT_ID": "EE4C377A-41D5-C498-688B-383B3A43FB14",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000059",
+                    "STREET": "Ap #756-4356 Nunc Ave",
+                    "ZIP": "6141"
+                }
+            },
+            {
+                "000063": {
+                    "ADDRESS_1": "Hannah Newman",
+                    "CITY": "Lonquimay",
+                    "CLIENT_ID": "C27E378B-5B1D-8D9C-9ACE-69977AEA8ECC",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000063",
+                    "STREET": "371-5060 Molestie Rd.",
+                    "ZIP": "7024"
+                }
+            },
+            {
+                "000082": {
+                    "ADDRESS_1": "Katell Justice",
+                    "CITY": "Manizales",
+                    "CLIENT_ID": "9B6DE917-8963-39BC-848B-E298754D76B5",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000082",
+                    "STREET": "940-8814 Dui. Street",
+                    "ZIP": "739157"
+                }
+            },
+            {
+                "000092": {
+                    "ADDRESS_1": "Malachi Gordon",
+                    "CITY": "Vienna",
+                    "CLIENT_ID": "498C529A-9194-43F7-AD69-B3446BC542A1",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000092",
+                    "STREET": "949-9513 Porttitor Avenue",
+                    "ZIP": "40813"
+                }
+            },
+            {
+                "000101": {
+                    "ADDRESS_1": "Carly Hester",
+                    "CITY": "Villa Latina",
+                    "CLIENT_ID": "F7DF8963-5481-671D-B6E0-CEA3E1661485",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000101",
+                    "STREET": "Ap #800-8916 Per St.",
+                    "ZIP": "17397"
+                }
+            },
+            {
+                "000109": {
+                    "ADDRESS_1": "Lysandra Black",
+                    "CITY": "Mokpo",
+                    "CLIENT_ID": "2412764B-7826-B57F-8365-DEA8D80038AE",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000109",
+                    "STREET": "493-5849 Urna. Road",
+                    "ZIP": "71076"
+                }
+            },
+            {
+                "000122": {
+                    "ADDRESS_1": "Trevor Lee",
+                    "CITY": "Galway",
+                    "CLIENT_ID": "3CE35120-BAFE-4AEC-9DB3-3C35D93E93E8",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000122",
+                    "STREET": "Ap #367-7242 Sit Avenue",
+                    "ZIP": "MO4P 6CG"
+                }
+            },
+            {
+                "000133": {
+                    "ADDRESS_1": "Russell Gentry",
+                    "CITY": "Cheyenne",
+                    "CLIENT_ID": "CC8DFFB1-5800-3E94-2EC7-15B739797431",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000133",
+                    "STREET": "141-2779 Purus Ave",
+                    "ZIP": "771342"
+                }
+            },
+            {
+                "000137": {
+                    "ADDRESS_1": "Buffy Sanchez",
+                    "CITY": "Chakwal",
+                    "CLIENT_ID": "5089E27C-2748-B12C-F1AE-373210C75E65",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000137",
+                    "STREET": "354-1031 Nec Avenue",
+                    "ZIP": "2756"
+                }
+            },
+            {
+                "000141": {
+                    "ADDRESS_1": "Kaseem Francis",
+                    "CITY": "Gebze",
+                    "CLIENT_ID": "EE882C69-9A99-B42C-1BA8-9313B075D750",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000141",
+                    "STREET": "Ap #746-9018 Justo. Rd.",
+                    "ZIP": "85424-71316"
+                }
+            },
+            {
+                "000169": {
+                    "ADDRESS_1": "Colby Young",
+                    "CITY": "Metro",
+                    "CLIENT_ID": "A548A9BC-6AE2-8E99-52B4-0A5BA4E465D5",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000169",
+                    "STREET": "604-3487 Mauris Avenue",
+                    "ZIP": "Z4 5DM"
+                }
+            },
+            {
+                "000173": {
+                    "ADDRESS_1": "Rama Mathews",
+                    "CITY": "Yeosu",
+                    "CLIENT_ID": "9A9D72D2-8BB8-B8C2-D623-0DD145EA93B3",
+                    "COUNTRY": "United States",
+                    "GROUP": "D",
+                    "SEQUENCE_ID": "000173",
+                    "STREET": "Ap #872-8601 Ut Ave",
+                    "ZIP": "84-607"
+                }
+            }
+        ]
+    },
+    "E": {
+        "France": [
+            {
+                "000028": {
+                    "ADDRESS_1": "Dante Vaughan",
+                    "CITY": "Darwin",
+                    "CLIENT_ID": "9D926E59-43B5-22D6-C68E-2164C99AE15D",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000028",
+                    "STREET": "1618 Primis Street",
+                    "ZIP": "4856"
+                }
+            },
+            {
+                "000036": {
+                    "ADDRESS_1": "Meredith Cherry",
+                    "CITY": "Broken Hill",
+                    "CLIENT_ID": "7895B3DD-46BF-EB2B-B0FD-941F53722B09",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000036",
+                    "STREET": "Ap #716-1522 Consequat Avenue",
+                    "ZIP": "978767"
+                }
+            },
+            {
+                "000064": {
+                    "ADDRESS_1": "Allistair Mayo",
+                    "CITY": "Katsina",
+                    "CLIENT_ID": "2CAE9B96-5B3D-B5BE-B1B3-E7EDBB2D306E",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000064",
+                    "STREET": "Ap #817-5249 Aliquam Street",
+                    "ZIP": "873602"
+                }
+            },
+            {
+                "000083": {
+                    "ADDRESS_1": "Priscilla Buckley",
+                    "CITY": "Kozan",
+                    "CLIENT_ID": "5F1BC1E0-A98F-A9F5-BF5D-8702AC2D27C3",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000083",
+                    "STREET": "414 Curabitur Road",
+                    "ZIP": "74796-380"
+                }
+            },
+            {
+                "000110": {
+                    "ADDRESS_1": "Joelle Armstrong",
+                    "CITY": "Vaulx-lez-Chimay",
+                    "CLIENT_ID": "D5752647-24C4-CC3A-5F8C-51E2B4E8DDD2",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000110",
+                    "STREET": "Ap #780-2011 Duis Avenue",
+                    "ZIP": "836555"
+                }
+            },
+            {
+                "000123": {
+                    "ADDRESS_1": "Anastasia Wallace",
+                    "CITY": "Owerri",
+                    "CLIENT_ID": "D3C697ED-5CA5-5A86-7576-73826D705371",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000123",
+                    "STREET": "433-5305 Interdum Avenue",
+                    "ZIP": "8462"
+                }
+            },
+            {
+                "000126": {
+                    "ADDRESS_1": "Herman Massey",
+                    "CITY": "Sant'Egidio alla Vibrata",
+                    "CLIENT_ID": "149B78F7-2C5B-D420-7F9F-95E30D82D206",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000126",
+                    "STREET": "468-2348 Placerat Road",
+                    "ZIP": "45138"
+                }
+            },
+            {
+                "000147": {
+                    "ADDRESS_1": "Perry Hooper",
+                    "CITY": "Chimay",
+                    "CLIENT_ID": "6E48A1E8-D0F6-3EF6-F226-2B85C745A1EA",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000147",
+                    "STREET": "Ap #939-7386 Lobortis Av.",
+                    "ZIP": "41606"
+                }
+            }
+        ],
+        "United States": [
+            {
+                "000072": {
+                    "ADDRESS_1": "Melvin Dale",
+                    "CITY": "Da Lat",
+                    "CLIENT_ID": "9472C25B-B336-409B-4B96-7F4B54A7B976",
+                    "COUNTRY": "United States",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000072",
+                    "STREET": "470-5105 Et Av.",
+                    "ZIP": "66057-36102"
+                }
+            },
+            {
+                "000075": {
+                    "ADDRESS_1": "Adrienne Roy",
+                    "CITY": "Rio Verde",
+                    "CLIENT_ID": "77BAB7DF-D96D-77B3-0E31-AB7DED305BBE",
+                    "COUNTRY": "United States",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000075",
+                    "STREET": "954-7406 Tellus Road",
+                    "ZIP": "57258"
+                }
+            },
+            {
+                "000115": {
+                    "ADDRESS_1": "Cyrus Chavez",
+                    "CITY": "Dumai",
+                    "CLIENT_ID": "4C2B2203-90D1-8865-1E22-35F3A2158143",
+                    "COUNTRY": "United States",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000115",
+                    "STREET": "993-198 Sed Rd.",
+                    "ZIP": "5105"
+                }
+            },
+            {
+                "000142": {
+                    "ADDRESS_1": "Lani Downs",
+                    "CITY": "Sagamu",
+                    "CLIENT_ID": "5F00E943-7BDD-7E88-2160-9BE72C131731",
+                    "COUNTRY": "United States",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000142",
+                    "STREET": "Ap #327-6504 Morbi Road",
+                    "ZIP": "8172"
+                }
+            },
+            {
+                "000157": {
+                    "ADDRESS_1": "Carolyn Hatfield",
+                    "CITY": "Halifax",
+                    "CLIENT_ID": "7832BC38-CCA9-63F7-97EF-3C93A749148D",
+                    "COUNTRY": "United States",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000157",
+                    "STREET": "600-8066 Proin Road",
+                    "ZIP": "2246"
+                }
+            }
+        ]
+    },
+    "F": {
+        "France": [
+            {
+                "000030": {
+                    "ADDRESS_1": "Hamilton Guthrie",
+                    "CITY": "Tiverton",
+                    "CLIENT_ID": "E91B6D76-4BF6-B8D9-8419-94335564D196",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000030",
+                    "STREET": "733-7445 Sem Rd.",
+                    "ZIP": "97840-40286"
+                }
+            },
+            {
+                "000065": {
+                    "ADDRESS_1": "Martena Phelps",
+                    "CITY": "Sapele",
+                    "CLIENT_ID": "C3EAEB60-B9BC-5DC9-573E-BEDF7EE3B52C",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000065",
+                    "STREET": "Ap #218-8097 Eu Avenue",
+                    "ZIP": "2079"
+                }
+            },
+            {
+                "000076": {
+                    "ADDRESS_1": "Kaseem Sherman",
+                    "CITY": "San Pablo",
+                    "CLIENT_ID": "AD30AF8A-1894-5A2D-3942-5615E21E253B",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000076",
+                    "STREET": "7585 Eu Rd.",
+                    "ZIP": "16477"
+                }
+            },
+            {
+                "000116": {
+                    "ADDRESS_1": "Abigail Moon",
+                    "CITY": "Wolfurt",
+                    "CLIENT_ID": "911365B8-4C96-C46E-ECE6-A96F0517C77E",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000116",
+                    "STREET": "Ap #728-7895 Justo. Av.",
+                    "ZIP": "24463"
+                }
+            },
+            {
+                "000117": {
+                    "ADDRESS_1": "Cassandra Benton",
+                    "CITY": "Iqaluit",
+                    "CLIENT_ID": "555C98F3-58EE-8A55-F7BA-48C21CD66451",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000117",
+                    "STREET": "Ap #972-2220 Habitant Road",
+                    "ZIP": "758842"
+                }
+            },
+            {
+                "000128": {
+                    "ADDRESS_1": "Channing Lott",
+                    "CITY": "Vidisha",
+                    "CLIENT_ID": "D83736AC-8161-9C03-865E-7774899705D8",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000128",
+                    "STREET": "Ap #482-548 Egestas. Ave",
+                    "ZIP": "77682"
+                }
+            },
+            {
+                "000143": {
+                    "ADDRESS_1": "Erasmus Gallagher",
+                    "CITY": "Kurgan",
+                    "CLIENT_ID": "A919849B-C2BD-99C5-BE1A-E21571A7DCDD",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000143",
+                    "STREET": "731-9934 Magna. Street",
+                    "ZIP": "19757"
+                }
+            },
+            {
+                "000158": {
+                    "ADDRESS_1": "Vielka Reilly",
+                    "CITY": "Alphen aan den Rijn",
+                    "CLIENT_ID": "4F6B1D11-A3AE-3E9C-AAFF-17295494C369",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000158",
+                    "STREET": "662-1565 Tincidunt Street",
+                    "ZIP": "10324"
+                }
+            },
+            {
+                "000159": {
+                    "ADDRESS_1": "Ifeoma Rush",
+                    "CITY": "Bandar Lampung",
+                    "CLIENT_ID": "B47C36DA-D971-6DA4-33A5-B976F47F9392",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000159",
+                    "STREET": "2225 Rutrum St.",
+                    "ZIP": "32984"
+                }
+            },
+            {
+                "000163": {
+                    "ADDRESS_1": "Marah Chavez",
+                    "CITY": "Las Palmas",
+                    "CLIENT_ID": "46E6D118-E5DA-EC23-638D-A0A96ABCFA94",
+                    "COUNTRY": "France",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000163",
+                    "STREET": "7339 Vivamus Rd.",
+                    "ZIP": "45153"
+                }
+            }
+        ],
+        "United States": [
+            {
+                "000029": {
+                    "ADDRESS_1": "Celeste Sosa",
+                    "CITY": "Muzaffarpur",
+                    "CLIENT_ID": "6C998ABE-8284-A77D-D041-C5C6F268B712",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000029",
+                    "STREET": "Ap #795-1716 Nullam St.",
+                    "ZIP": "6248"
+                }
+            },
+            {
+                "000066": {
+                    "ADDRESS_1": "Hammett Preston",
+                    "CITY": "Burgos",
+                    "CLIENT_ID": "AE057C32-9D8C-EFDD-EE88-484D82CB2A40",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000066",
+                    "STREET": "Ap #296-4162 In Avenue",
+                    "ZIP": "6928"
+                }
+            },
+            {
+                "000077": {
+                    "ADDRESS_1": "Dai Fleming",
+                    "CITY": "Hainan",
+                    "CLIENT_ID": "D258FCB6-2DD6-BCA8-A68E-1EC1564ACB6D",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000077",
+                    "STREET": "571-2901 Duis Road",
+                    "ZIP": "88432"
+                }
+            },
+            {
+                "000111": {
+                    "ADDRESS_1": "Lionel Best",
+                    "CITY": "Bello",
+                    "CLIENT_ID": "62A64E7E-5297-0B45-D67B-C2E8305D6764",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000111",
+                    "STREET": "202-4064 Orci. Av.",
+                    "ZIP": "6223 EW"
+                }
+            },
+            {
+                "000112": {
+                    "ADDRESS_1": "Zenia Christian",
+                    "CITY": "Wernigerode",
+                    "CLIENT_ID": "4FAB7F6F-C14A-97B9-C15E-02254CBE86C9",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000112",
+                    "STREET": "Ap #921-1055 Ullamcorper Road",
+                    "ZIP": "602815"
+                }
+            },
+            {
+                "000127": {
+                    "ADDRESS_1": "Ashely Cooper",
+                    "CITY": "Quilaco",
+                    "CLIENT_ID": "3DE15F97-3F5C-CABF-126B-12B1DC2C5CCB",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000127",
+                    "STREET": "984-1242 Orci. Rd.",
+                    "ZIP": "28035"
+                }
+            },
+            {
+                "000144": {
+                    "ADDRESS_1": "Xaviera Downs",
+                    "CITY": "Rechnitz",
+                    "CLIENT_ID": "AA5988B4-D708-7909-2968-1E79A8D962A1",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000144",
+                    "STREET": "4283 Cras Av.",
+                    "ZIP": "20726"
+                }
+            },
+            {
+                "000149": {
+                    "ADDRESS_1": "Oren Mendoza",
+                    "CITY": "Barrow-in-Furness",
+                    "CLIENT_ID": "993A8BEA-D093-2DD5-A382-7C801A921C1A",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000149",
+                    "STREET": "Ap #515-944 Nunc St.",
+                    "ZIP": "14955"
+                }
+            },
+            {
+                "000164": {
+                    "ADDRESS_1": "Wade Flowers",
+                    "CITY": "Amiens",
+                    "CLIENT_ID": "8A15372E-9899-C5A3-5944-A44EAA027DDA",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000164",
+                    "STREET": "Ap #856-3118 Et Road",
+                    "ZIP": "442814"
+                }
+            }
+        ]
+    },
+    "G": {
+        "France": [
+            {
+                "000160": [
+                    {
+                        "ADDRESS_1": "Hermione Norton",
+                        "CITY": "Sangju",
+                        "CLIENT_ID": "839A00DC-9BAD-4B23-3524-C01491268757",
+                        "COUNTRY": "France",
+                        "GROUP": "G",
+                        "SEQUENCE_ID": "000160",
+                        "STREET": "Ap #301-8697 Purus. Rd.",
+                        "ZIP": "407775"
+                    },
+                    {
+                        "ADDRESS_1": "Christian Rodgers",
+                        "CITY": "Sangju",
+                        "CLIENT_ID": "65A8FA1D-099D-B4A4-413C-1B96064D595E",
+                        "COUNTRY": "France",
+                        "GROUP": "G",
+                        "SEQUENCE_ID": "000170",
+                        "STREET": "Ap #301-8697 Purus. Rd.",
+                        "ZIP": "407775"
+                    },
+                    {
+                        "ADDRESS_1": "Nash Salinas",
+                        "CITY": "Sangju",
+                        "CLIENT_ID": "6B20DBE7-115A-719A-B53C-52C25221448B",
+                        "COUNTRY": "France",
+                        "GROUP": "G",
+                        "SEQUENCE_ID": "000172",
+                        "STREET": "Ap #301-8697 Purus. Rd.",
+                        "ZIP": "407775"
+                    },
+                    {
+                        "ADDRESS_1": "Felix Merrill",
+                        "CITY": "Sangju",
+                        "CLIENT_ID": "442D9E22-AC57-A42F-1AF6-814349DE7430",
+                        "COUNTRY": "France",
+                        "GROUP": "G",
+                        "SEQUENCE_ID": "000179",
+                        "STREET": "Ap #301-8697 Purus. Rd.",
+                        "ZIP": "407775"
+                    }
+                ]
+            },
+            {
+                "000170": {
+                    "ADDRESS_1": "Christian Rodgers",
+                    "CITY": "Sangju",
+                    "CLIENT_ID": "65A8FA1D-099D-B4A4-413C-1B96064D595E",
+                    "COUNTRY": "France",
+                    "GROUP": "G",
+                    "SEQUENCE_ID": "000170",
+                    "STREET": "Ap #301-8697 Purus. Rd.",
+                    "ZIP": "407775"
+                }
+            },
+            {
+                "000172": {
+                    "ADDRESS_1": "Nash Salinas",
+                    "CITY": "Sangju",
+                    "CLIENT_ID": "6B20DBE7-115A-719A-B53C-52C25221448B",
+                    "COUNTRY": "France",
+                    "GROUP": "G",
+                    "SEQUENCE_ID": "000172",
+                    "STREET": "Ap #301-8697 Purus. Rd.",
+                    "ZIP": "407775"
+                }
+            },
+            {
+                "000179": {
+                    "ADDRESS_1": "Felix Merrill",
+                    "CITY": "Sangju",
+                    "CLIENT_ID": "442D9E22-AC57-A42F-1AF6-814349DE7430",
+                    "COUNTRY": "France",
+                    "GROUP": "G",
+                    "SEQUENCE_ID": "000179",
+                    "STREET": "Ap #301-8697 Purus. Rd.",
+                    "ZIP": "407775"
+                }
+            }
+        ]
+    },
+    "H": {
+        "United States": [
+            {
+                "000148": [
+                    {
+                        "ADDRESS_1": "Grady Vargas",
+                        "CITY": "Brandenburg",
+                        "CLIENT_ID": "3014E652-CCDD-280C-32E9-4AB3317875B3",
+                        "COUNTRY": "United States",
+                        "GROUP": "H",
+                        "SEQUENCE_ID": "000148",
+                        "STREET": "7426 Vivamus Road",
+                        "ZIP": "9631"
+                    },
+                    {
+                        "ADDRESS_1": "Jeremy Hoover",
+                        "CITY": "Brandenburg",
+                        "CLIENT_ID": "28FAB23A-DB79-B580-2989-2B1D662EB896",
+                        "COUNTRY": "United States",
+                        "GROUP": "H",
+                        "SEQUENCE_ID": "000152",
+                        "STREET": "7426 Vivamus Road",
+                        "ZIP": "9631"
+                    },
+                    {
+                        "ADDRESS_1": "Lynn Shelton",
+                        "CITY": "Brandenburg",
+                        "CLIENT_ID": "8E88BBA1-152C-3674-3991-786A85692BD8",
+                        "COUNTRY": "United States",
+                        "GROUP": "H",
+                        "SEQUENCE_ID": "000156",
+                        "STREET": "7426 Vivamus Road",
+                        "ZIP": "9631"
+                    },
+                    {
+                        "ADDRESS_1": "Stewart Patel",
+                        "CITY": "Brandenburg",
+                        "CLIENT_ID": "C86A7134-8EC6-7EAA-717D-B1F80A3F2A5D",
+                        "COUNTRY": "United States",
+                        "GROUP": "H",
+                        "SEQUENCE_ID": "000162",
+                        "STREET": "7426 Vivamus Road",
+                        "ZIP": "9631"
+                    }
+                ]
+            },
+            {
+                "000152": {
+                    "ADDRESS_1": "Jeremy Hoover",
+                    "CITY": "Brandenburg",
+                    "CLIENT_ID": "28FAB23A-DB79-B580-2989-2B1D662EB896",
+                    "COUNTRY": "United States",
+                    "GROUP": "H",
+                    "SEQUENCE_ID": "000152",
+                    "STREET": "7426 Vivamus Road",
+                    "ZIP": "9631"
+                }
+            },
+            {
+                "000156": {
+                    "ADDRESS_1": "Lynn Shelton",
+                    "CITY": "Brandenburg",
+                    "CLIENT_ID": "8E88BBA1-152C-3674-3991-786A85692BD8",
+                    "COUNTRY": "United States",
+                    "GROUP": "H",
+                    "SEQUENCE_ID": "000156",
+                    "STREET": "7426 Vivamus Road",
+                    "ZIP": "9631"
+                }
+            },
+            {
+                "000162": {
+                    "ADDRESS_1": "Stewart Patel",
+                    "CITY": "Brandenburg",
+                    "CLIENT_ID": "C86A7134-8EC6-7EAA-717D-B1F80A3F2A5D",
+                    "COUNTRY": "United States",
+                    "GROUP": "H",
+                    "SEQUENCE_ID": "000162",
+                    "STREET": "7426 Vivamus Road",
+                    "ZIP": "9631"
+                }
+            }
+        ]
+    }
+}

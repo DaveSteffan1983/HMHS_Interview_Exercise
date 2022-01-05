@@ -1,0 +1,86 @@
+{
+    "G": {
+        "France": [
+            {
+                "000160": [
+                    {
+                        "ADDRESS_1": "Hermione Norton",
+                        "CITY": "Sangju",
+                        "CLIENT_ID": "839A00DC-9BAD-4B23-3524-C01491268757",
+                        "COUNTRY": "France",
+                        "GROUP": "G",
+                        "SEQUENCE_ID": "000160",
+                        "STREET": "Ap #301-8697 Purus. Rd.",
+                        "ZIP": "407775"
+                    },
+                    {
+                        "ADDRESS_1": "Christian Rodgers",
+                        "CITY": "Sangju",
+                        "CLIENT_ID": "65A8FA1D-099D-B4A4-413C-1B96064D595E",
+                        "COUNTRY": "France",
+                        "GROUP": "G",
+                        "SEQUENCE_ID": "000170",
+                        "STREET": "Ap #301-8697 Purus. Rd.",
+                        "ZIP": "407775"
+                    },
+                    {
+                        "ADDRESS_1": "Nash Salinas",
+                        "CITY": "Sangju",
+                        "CLIENT_ID": "6B20DBE7-115A-719A-B53C-52C25221448B",
+                        "COUNTRY": "France",
+                        "GROUP": "G",
+                        "SEQUENCE_ID": "000172",
+                        "STREET": "Ap #301-8697 Purus. Rd.",
+                        "ZIP": "407775"
+                    },
+                    {
+                        "ADDRESS_1": "Felix Merrill",
+                        "CITY": "Sangju",
+                        "CLIENT_ID": "442D9E22-AC57-A42F-1AF6-814349DE7430",
+                        "COUNTRY": "France",
+                        "GROUP": "G",
+                        "SEQUENCE_ID": "000179",
+                        "STREET": "Ap #301-8697 Purus. Rd.",
+                        "ZIP": "407775"
+                    }
+                ]
+            },
+            {
+                "000170": {
+                    "ADDRESS_1": "Christian Rodgers",
+                    "CITY": "Sangju",
+                    "CLIENT_ID": "65A8FA1D-099D-B4A4-413C-1B96064D595E",
+                    "COUNTRY": "France",
+                    "GROUP": "G",
+                    "SEQUENCE_ID": "000170",
+                    "STREET": "Ap #301-8697 Purus. Rd.",
+                    "ZIP": "407775"
+                }
+            },
+            {
+                "000172": {
+                    "ADDRESS_1": "Nash Salinas",
+                    "CITY": "Sangju",
+                    "CLIENT_ID": "6B20DBE7-115A-719A-B53C-52C25221448B",
+                    "COUNTRY": "France",
+                    "GROUP": "G",
+                    "SEQUENCE_ID": "000172",
+                    "STREET": "Ap #301-8697 Purus. Rd.",
+                    "ZIP": "407775"
+                }
+            },
+            {
+                "000179": {
+                    "ADDRESS_1": "Felix Merrill",
+                    "CITY": "Sangju",
+                    "CLIENT_ID": "442D9E22-AC57-A42F-1AF6-814349DE7430",
+                    "COUNTRY": "France",
+                    "GROUP": "G",
+                    "SEQUENCE_ID": "000179",
+                    "STREET": "Ap #301-8697 Purus. Rd.",
+                    "ZIP": "407775"
+                }
+            }
+        ]
+    }
+}

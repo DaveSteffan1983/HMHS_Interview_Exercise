@@ -1,0 +1,86 @@
+{
+    "H": {
+        "United States": [
+            {
+                "000148": [
+                    {
+                        "ADDRESS_1": "Grady Vargas",
+                        "CITY": "Brandenburg",
+                        "CLIENT_ID": "3014E652-CCDD-280C-32E9-4AB3317875B3",
+                        "COUNTRY": "United States",
+                        "GROUP": "H",
+                        "SEQUENCE_ID": "000148",
+                        "STREET": "7426 Vivamus Road",
+                        "ZIP": "9631"
+                    },
+                    {
+                        "ADDRESS_1": "Jeremy Hoover",
+                        "CITY": "Brandenburg",
+                        "CLIENT_ID": "28FAB23A-DB79-B580-2989-2B1D662EB896",
+                        "COUNTRY": "United States",
+                        "GROUP": "H",
+                        "SEQUENCE_ID": "000152",
+                        "STREET": "7426 Vivamus Road",
+                        "ZIP": "9631"
+                    },
+                    {
+                        "ADDRESS_1": "Lynn Shelton",
+                        "CITY": "Brandenburg",
+                        "CLIENT_ID": "8E88BBA1-152C-3674-3991-786A85692BD8",
+                        "COUNTRY": "United States",
+                        "GROUP": "H",
+                        "SEQUENCE_ID": "000156",
+                        "STREET": "7426 Vivamus Road",
+                        "ZIP": "9631"
+                    },
+                    {
+                        "ADDRESS_1": "Stewart Patel",
+                        "CITY": "Brandenburg",
+                        "CLIENT_ID": "C86A7134-8EC6-7EAA-717D-B1F80A3F2A5D",
+                        "COUNTRY": "United States",
+                        "GROUP": "H",
+                        "SEQUENCE_ID": "000162",
+                        "STREET": "7426 Vivamus Road",
+                        "ZIP": "9631"
+                    }
+                ]
+            },
+            {
+                "000152": {
+                    "ADDRESS_1": "Jeremy Hoover",
+                    "CITY": "Brandenburg",
+                    "CLIENT_ID": "28FAB23A-DB79-B580-2989-2B1D662EB896",
+                    "COUNTRY": "United States",
+                    "GROUP": "H",
+                    "SEQUENCE_ID": "000152",
+                    "STREET": "7426 Vivamus Road",
+                    "ZIP": "9631"
+                }
+            },
+            {
+                "000156": {
+                    "ADDRESS_1": "Lynn Shelton",
+                    "CITY": "Brandenburg",
+                    "CLIENT_ID": "8E88BBA1-152C-3674-3991-786A85692BD8",
+                    "COUNTRY": "United States",
+                    "GROUP": "H",
+                    "SEQUENCE_ID": "000156",
+                    "STREET": "7426 Vivamus Road",
+                    "ZIP": "9631"
+                }
+            },
+            {
+                "000162": {
+                    "ADDRESS_1": "Stewart Patel",
+                    "CITY": "Brandenburg",
+                    "CLIENT_ID": "C86A7134-8EC6-7EAA-717D-B1F80A3F2A5D",
+                    "COUNTRY": "United States",
+                    "GROUP": "H",
+                    "SEQUENCE_ID": "000162",
+                    "STREET": "7426 Vivamus Road",
+                    "ZIP": "9631"
+                }
+            }
+        ]
+    }
+}
