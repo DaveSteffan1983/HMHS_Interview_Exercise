@@ -1,0 +1,198 @@
+{
+    "A": {
+        "France": [
+            {
+                "000002": {
+                    "ADDRESS_1": "Octavia Cervantes",
+                    "CITY": "Darwin",
+                    "CLIENT_ID": "8B1EFDB0-4423-889A-EC83-EB47979286DD",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000002",
+                    "STREET": "5512 Nisl Rd.",
+                    "ZIP": "8380"
+                }
+            },
+            {
+                "000010": {
+                    "ADDRESS_1": "Mechelle Craig",
+                    "CITY": "Kaster",
+                    "CLIENT_ID": "72631A1C-2401-E2D2-2F2D-863399A7B95D",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000010",
+                    "STREET": "840-7925 Quis Rd.",
+                    "ZIP": "I2G 3SQ"
+                }
+            },
+            {
+                "000037": {
+                    "ADDRESS_1": "Melvin Albert",
+                    "CITY": "Pontevedra",
+                    "CLIENT_ID": "58C83025-1600-98AD-423C-571A7E28965B",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000037",
+                    "STREET": "Ap #932-9975 Felis Road",
+                    "ZIP": "54820"
+                }
+            },
+            {
+                "000038": {
+                    "ADDRESS_1": "Sydney Hamilton",
+                    "CITY": "Lleida",
+                    "CLIENT_ID": "B9E3182E-F64C-CAEE-9422-286D2E705749",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000038",
+                    "STREET": "Ap #601-7388 Imperdiet Avenue",
+                    "ZIP": "2550"
+                }
+            },
+            {
+                "000039": {
+                    "ADDRESS_1": "Ashton Armstrong",
+                    "CITY": "Dunbar",
+                    "CLIENT_ID": "8F36E029-522B-43C0-61B3-CCACFE34EADD",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000039",
+                    "STREET": "530-7237 Est Ave",
+                    "ZIP": "53198"
+                }
+            },
+            {
+                "000047": {
+                    "ADDRESS_1": "Raphael Carter",
+                    "CITY": "Kurram Agency",
+                    "CLIENT_ID": "3D152829-22A9-6E65-3399-F28B5AEAC450",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000047",
+                    "STREET": "Ap #979-3396 Libero Rd.",
+                    "ZIP": "8731"
+                }
+            },
+            {
+                "000054": {
+                    "ADDRESS_1": "Destiny Porter",
+                    "CITY": "Segovia",
+                    "CLIENT_ID": "DB23A562-CD31-56DC-79C9-BC02D2E78355",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000054",
+                    "STREET": "Ap #443-3642 Ipsum. Avenue",
+                    "ZIP": "436257"
+                }
+            },
+            {
+                "000073": {
+                    "ADDRESS_1": "Calvin Noel",
+                    "CITY": "Kemerovo",
+                    "CLIENT_ID": "432FE570-B42B-4D28-0D2B-053D0EF495E4",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000073",
+                    "STREET": "758-9758 Nullam Av.",
+                    "ZIP": "461473"
+                }
+            },
+            {
+                "000086": {
+                    "ADDRESS_1": "Tad Trevino",
+                    "CITY": "Hamburg",
+                    "CLIENT_ID": "6BC5F93B-4964-92B9-572C-64F2E81BB332",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000086",
+                    "STREET": "884-4823 Nec St.",
+                    "ZIP": "3826"
+                }
+            },
+            {
+                "000093": {
+                    "ADDRESS_1": "Keegan Bartlett",
+                    "CITY": "Chimbote",
+                    "CLIENT_ID": "9EA39D3A-0AD4-AAA1-ACA3-BC5A4440928C",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000093",
+                    "STREET": "Ap #462-4712 Sodales Road",
+                    "ZIP": "20-313"
+                }
+            },
+            {
+                "000094": {
+                    "ADDRESS_1": "Slade Armstrong",
+                    "CITY": "Jhang",
+                    "CLIENT_ID": "52662A12-1315-A2F4-D117-A65183BEC347",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000094",
+                    "STREET": "Ap #577-2080 Nulla. Avenue",
+                    "ZIP": "42543"
+                }
+            },
+            {
+                "000100": {
+                    "ADDRESS_1": "McKenzie Colon",
+                    "CITY": "Cork",
+                    "CLIENT_ID": "2DD31417-799A-4B96-353E-554CB77B13B9",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000100",
+                    "STREET": "Ap #799-6463 Ornare St.",
+                    "ZIP": "5161"
+                }
+            },
+            {
+                "000108": {
+                    "ADDRESS_1": "Rana Morgan",
+                    "CITY": "Lakeland County",
+                    "CLIENT_ID": "2472C5AC-7B0A-B8C4-3429-C37527D1A2EE",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000108",
+                    "STREET": "793-8933 Penatibus St.",
+                    "ZIP": "8454"
+                }
+            },
+            {
+                "000155": {
+                    "ADDRESS_1": "Jenette Gordon",
+                    "CITY": "Bursa",
+                    "CLIENT_ID": "4DA54A86-4307-AD30-BDE9-285943533079",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000155",
+                    "STREET": "251-7241 Accumsan St.",
+                    "ZIP": "9674"
+                }
+            },
+            {
+                "000171": {
+                    "ADDRESS_1": "Kirsten Estrada",
+                    "CITY": "Osan",
+                    "CLIENT_ID": "7D943427-BAFC-6B82-4262-ACB4AC59C571",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000171",
+                    "STREET": "662 Tempus St.",
+                    "ZIP": "77-158"
+                }
+            },
+            {
+                "000178": {
+                    "ADDRESS_1": "Demetria Poole",
+                    "CITY": "Bendigo",
+                    "CLIENT_ID": "9A78162B-9D5E-B73A-AC15-1D4CB0570E2E",
+                    "COUNTRY": "France",
+                    "GROUP": "A",
+                    "SEQUENCE_ID": "000178",
+                    "STREET": "3375 Fringilla Av.",
+                    "ZIP": "442849"
+                }
+            }
+        ]
+    }
+}

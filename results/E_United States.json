@@ -1,0 +1,66 @@
+{
+    "E": {
+        "United States": [
+            {
+                "000072": {
+                    "ADDRESS_1": "Melvin Dale",
+                    "CITY": "Da Lat",
+                    "CLIENT_ID": "9472C25B-B336-409B-4B96-7F4B54A7B976",
+                    "COUNTRY": "United States",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000072",
+                    "STREET": "470-5105 Et Av.",
+                    "ZIP": "66057-36102"
+                }
+            },
+            {
+                "000075": {
+                    "ADDRESS_1": "Adrienne Roy",
+                    "CITY": "Rio Verde",
+                    "CLIENT_ID": "77BAB7DF-D96D-77B3-0E31-AB7DED305BBE",
+                    "COUNTRY": "United States",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000075",
+                    "STREET": "954-7406 Tellus Road",
+                    "ZIP": "57258"
+                }
+            },
+            {
+                "000115": {
+                    "ADDRESS_1": "Cyrus Chavez",
+                    "CITY": "Dumai",
+                    "CLIENT_ID": "4C2B2203-90D1-8865-1E22-35F3A2158143",
+                    "COUNTRY": "United States",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000115",
+                    "STREET": "993-198 Sed Rd.",
+                    "ZIP": "5105"
+                }
+            },
+            {
+                "000142": {
+                    "ADDRESS_1": "Lani Downs",
+                    "CITY": "Sagamu",
+                    "CLIENT_ID": "5F00E943-7BDD-7E88-2160-9BE72C131731",
+                    "COUNTRY": "United States",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000142",
+                    "STREET": "Ap #327-6504 Morbi Road",
+                    "ZIP": "8172"
+                }
+            },
+            {
+                "000157": {
+                    "ADDRESS_1": "Carolyn Hatfield",
+                    "CITY": "Halifax",
+                    "CLIENT_ID": "7832BC38-CCA9-63F7-97EF-3C93A749148D",
+                    "COUNTRY": "United States",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000157",
+                    "STREET": "600-8066 Proin Road",
+                    "ZIP": "2246"
+                }
+            }
+        ]
+    }
+}

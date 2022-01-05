@@ -1,0 +1,114 @@
+{
+    "F": {
+        "United States": [
+            {
+                "000029": {
+                    "ADDRESS_1": "Celeste Sosa",
+                    "CITY": "Muzaffarpur",
+                    "CLIENT_ID": "6C998ABE-8284-A77D-D041-C5C6F268B712",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000029",
+                    "STREET": "Ap #795-1716 Nullam St.",
+                    "ZIP": "6248"
+                }
+            },
+            {
+                "000066": {
+                    "ADDRESS_1": "Hammett Preston",
+                    "CITY": "Burgos",
+                    "CLIENT_ID": "AE057C32-9D8C-EFDD-EE88-484D82CB2A40",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000066",
+                    "STREET": "Ap #296-4162 In Avenue",
+                    "ZIP": "6928"
+                }
+            },
+            {
+                "000077": {
+                    "ADDRESS_1": "Dai Fleming",
+                    "CITY": "Hainan",
+                    "CLIENT_ID": "D258FCB6-2DD6-BCA8-A68E-1EC1564ACB6D",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000077",
+                    "STREET": "571-2901 Duis Road",
+                    "ZIP": "88432"
+                }
+            },
+            {
+                "000111": {
+                    "ADDRESS_1": "Lionel Best",
+                    "CITY": "Bello",
+                    "CLIENT_ID": "62A64E7E-5297-0B45-D67B-C2E8305D6764",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000111",
+                    "STREET": "202-4064 Orci. Av.",
+                    "ZIP": "6223 EW"
+                }
+            },
+            {
+                "000112": {
+                    "ADDRESS_1": "Zenia Christian",
+                    "CITY": "Wernigerode",
+                    "CLIENT_ID": "4FAB7F6F-C14A-97B9-C15E-02254CBE86C9",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000112",
+                    "STREET": "Ap #921-1055 Ullamcorper Road",
+                    "ZIP": "602815"
+                }
+            },
+            {
+                "000127": {
+                    "ADDRESS_1": "Ashely Cooper",
+                    "CITY": "Quilaco",
+                    "CLIENT_ID": "3DE15F97-3F5C-CABF-126B-12B1DC2C5CCB",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000127",
+                    "STREET": "984-1242 Orci. Rd.",
+                    "ZIP": "28035"
+                }
+            },
+            {
+                "000144": {
+                    "ADDRESS_1": "Xaviera Downs",
+                    "CITY": "Rechnitz",
+                    "CLIENT_ID": "AA5988B4-D708-7909-2968-1E79A8D962A1",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000144",
+                    "STREET": "4283 Cras Av.",
+                    "ZIP": "20726"
+                }
+            },
+            {
+                "000149": {
+                    "ADDRESS_1": "Oren Mendoza",
+                    "CITY": "Barrow-in-Furness",
+                    "CLIENT_ID": "993A8BEA-D093-2DD5-A382-7C801A921C1A",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000149",
+                    "STREET": "Ap #515-944 Nunc St.",
+                    "ZIP": "14955"
+                }
+            },
+            {
+                "000164": {
+                    "ADDRESS_1": "Wade Flowers",
+                    "CITY": "Amiens",
+                    "CLIENT_ID": "8A15372E-9899-C5A3-5944-A44EAA027DDA",
+                    "COUNTRY": "United States",
+                    "GROUP": "F",
+                    "SEQUENCE_ID": "000164",
+                    "STREET": "Ap #856-3118 Et Road",
+                    "ZIP": "442814"
+                }
+            }
+        ]
+    }
+}

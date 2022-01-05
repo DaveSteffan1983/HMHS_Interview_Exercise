@@ -1,0 +1,186 @@
+{
+    "C": {
+        "United States": [
+            {
+                "000007": {
+                    "ADDRESS_1": "Aquila Jacobson",
+                    "CITY": "Traiskirchen",
+                    "CLIENT_ID": "6C8BB8FA-4CD4-AC78-7E37-97A3AE535B91",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000007",
+                    "STREET": "Ap #608-5907 Nunc St.",
+                    "ZIP": "42435-153"
+                }
+            },
+            {
+                "000012": {
+                    "ADDRESS_1": "Lesley Cain",
+                    "CITY": "Waitakere",
+                    "CLIENT_ID": "59472D35-BAE9-205F-6464-A2F111443F19",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000012",
+                    "STREET": "2150 Condimentum. Street",
+                    "ZIP": "42127"
+                }
+            },
+            {
+                "000016": {
+                    "ADDRESS_1": "Amelia Lucas",
+                    "CITY": "Yorkton",
+                    "CLIENT_ID": "4FEC0FA8-0E8C-B4DD-0B69-29A13A71EC1C",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000016",
+                    "STREET": "Ap #526-2555 Posuere St.",
+                    "ZIP": "617153"
+                }
+            },
+            {
+                "000022": {
+                    "ADDRESS_1": "Mallory Jefferson",
+                    "CITY": "Melilla",
+                    "CLIENT_ID": "FF8DEB76-918F-BD0A-4C97-B9A17937B708",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000022",
+                    "STREET": "842-2931 Sit St.",
+                    "ZIP": "18425"
+                }
+            },
+            {
+                "000034": {
+                    "ADDRESS_1": "Jack Aguilar",
+                    "CITY": "Turbo",
+                    "CLIENT_ID": "C3142A6C-D1F2-26B8-AC16-88AB946C9511",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000034",
+                    "STREET": "Ap #833-737 Lacus. Rd.",
+                    "ZIP": "512605"
+                }
+            },
+            {
+                "000052": {
+                    "ADDRESS_1": "Chaney Chapman",
+                    "CITY": "Beijing",
+                    "CLIENT_ID": "66D8A142-591E-21E6-9FBB-D5CB612347E0",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000052",
+                    "STREET": "Ap #908-6966 Cras Rd.",
+                    "ZIP": "6443"
+                }
+            },
+            {
+                "000057": {
+                    "ADDRESS_1": "Kyra Hoover",
+                    "CITY": "Alanya",
+                    "CLIENT_ID": "8E20C4E6-E79E-E0BB-ECD5-15F21D5551B9",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000057",
+                    "STREET": "Ap #211-3842 Rutrum St.",
+                    "ZIP": "11812"
+                }
+            },
+            {
+                "000070": {
+                    "ADDRESS_1": "Sheila Wall",
+                    "CITY": "Ludlow",
+                    "CLIENT_ID": "55DE5FAE-E9CF-F2D5-6AA1-9C3E4A60DA1E",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000070",
+                    "STREET": "5026 Auctor Rd.",
+                    "ZIP": "25256"
+                }
+            },
+            {
+                "000090": {
+                    "ADDRESS_1": "Brady Hinton",
+                    "CITY": "Beijing",
+                    "CLIENT_ID": "8761CC73-164B-BFBA-C76D-B715CDE84685",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000090",
+                    "STREET": "334-3262 A Rd.",
+                    "ZIP": "39548"
+                }
+            },
+            {
+                "000095": {
+                    "ADDRESS_1": "Pandora Hensley",
+                    "CITY": "Kielce",
+                    "CLIENT_ID": "657E6BD9-ADA7-F4C4-D1BA-E66125D465D0",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000095",
+                    "STREET": "Ap #633-2256 Nascetur Av.",
+                    "ZIP": "18336"
+                }
+            },
+            {
+                "000099": {
+                    "ADDRESS_1": "Callum Swanson",
+                    "CITY": "Bissegem",
+                    "CLIENT_ID": "30ECD262-B5E8-1992-097C-CEEB9A5C382C",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000099",
+                    "STREET": "751-6603 Rutrum. Rd.",
+                    "ZIP": "976862"
+                }
+            },
+            {
+                "000136": {
+                    "ADDRESS_1": "Bruce Morrison",
+                    "CITY": "Joliet",
+                    "CLIENT_ID": "BBF22A5C-BE5F-B1D6-0B4D-4736A5BF7D0E",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000136",
+                    "STREET": "675-9596 In St.",
+                    "ZIP": "10061"
+                }
+            },
+            {
+                "000168": {
+                    "ADDRESS_1": "Reed Stanley",
+                    "CITY": "Pinkafeld",
+                    "CLIENT_ID": "437491A8-8D84-9ED5-D98A-617D7EA35E26",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000168",
+                    "STREET": "Ap #713-9516 Facilisis. Rd.",
+                    "ZIP": "7262"
+                }
+            },
+            {
+                "000174": {
+                    "ADDRESS_1": "Xander Sullivan",
+                    "CITY": "Yeongju",
+                    "CLIENT_ID": "1B146353-5319-5B6B-77E6-54D84E777832",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000174",
+                    "STREET": "351-557 Velit. Ave",
+                    "ZIP": "99171"
+                }
+            },
+            {
+                "000180": {
+                    "ADDRESS_1": "Mara Mccray",
+                    "CITY": "Agartala",
+                    "CLIENT_ID": "B7B632AA-0987-0BE7-2E37-E30F94A1F4EE",
+                    "COUNTRY": "United States",
+                    "GROUP": "C",
+                    "SEQUENCE_ID": "000180",
+                    "STREET": "Ap #789-1565 Mauris Avenue",
+                    "ZIP": "39691"
+                }
+            }
+        ]
+    }
+}

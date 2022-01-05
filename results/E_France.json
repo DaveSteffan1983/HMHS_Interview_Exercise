@@ -1,0 +1,102 @@
+{
+    "E": {
+        "France": [
+            {
+                "000028": {
+                    "ADDRESS_1": "Dante Vaughan",
+                    "CITY": "Darwin",
+                    "CLIENT_ID": "9D926E59-43B5-22D6-C68E-2164C99AE15D",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000028",
+                    "STREET": "1618 Primis Street",
+                    "ZIP": "4856"
+                }
+            },
+            {
+                "000036": {
+                    "ADDRESS_1": "Meredith Cherry",
+                    "CITY": "Broken Hill",
+                    "CLIENT_ID": "7895B3DD-46BF-EB2B-B0FD-941F53722B09",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000036",
+                    "STREET": "Ap #716-1522 Consequat Avenue",
+                    "ZIP": "978767"
+                }
+            },
+            {
+                "000064": {
+                    "ADDRESS_1": "Allistair Mayo",
+                    "CITY": "Katsina",
+                    "CLIENT_ID": "2CAE9B96-5B3D-B5BE-B1B3-E7EDBB2D306E",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000064",
+                    "STREET": "Ap #817-5249 Aliquam Street",
+                    "ZIP": "873602"
+                }
+            },
+            {
+                "000083": {
+                    "ADDRESS_1": "Priscilla Buckley",
+                    "CITY": "Kozan",
+                    "CLIENT_ID": "5F1BC1E0-A98F-A9F5-BF5D-8702AC2D27C3",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000083",
+                    "STREET": "414 Curabitur Road",
+                    "ZIP": "74796-380"
+                }
+            },
+            {
+                "000110": {
+                    "ADDRESS_1": "Joelle Armstrong",
+                    "CITY": "Vaulx-lez-Chimay",
+                    "CLIENT_ID": "D5752647-24C4-CC3A-5F8C-51E2B4E8DDD2",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000110",
+                    "STREET": "Ap #780-2011 Duis Avenue",
+                    "ZIP": "836555"
+                }
+            },
+            {
+                "000123": {
+                    "ADDRESS_1": "Anastasia Wallace",
+                    "CITY": "Owerri",
+                    "CLIENT_ID": "D3C697ED-5CA5-5A86-7576-73826D705371",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000123",
+                    "STREET": "433-5305 Interdum Avenue",
+                    "ZIP": "8462"
+                }
+            },
+            {
+                "000126": {
+                    "ADDRESS_1": "Herman Massey",
+                    "CITY": "Sant'Egidio alla Vibrata",
+                    "CLIENT_ID": "149B78F7-2C5B-D420-7F9F-95E30D82D206",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000126",
+                    "STREET": "468-2348 Placerat Road",
+                    "ZIP": "45138"
+                }
+            },
+            {
+                "000147": {
+                    "ADDRESS_1": "Perry Hooper",
+                    "CITY": "Chimay",
+                    "CLIENT_ID": "6E48A1E8-D0F6-3EF6-F226-2B85C745A1EA",
+                    "COUNTRY": "France",
+                    "GROUP": "E",
+                    "SEQUENCE_ID": "000147",
+                    "STREET": "Ap #939-7386 Lobortis Av.",
+                    "ZIP": "41606"
+                }
+            }
+        ]
+    }
+}
